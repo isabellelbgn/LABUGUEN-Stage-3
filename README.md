@@ -20,4 +20,5 @@ node appsql.js
 
 After running the above command, you should see a message indicating that the application runs on port 3000. 
 You can then visit the provided URL, ex: (http://localhost:3000/programming-language/new?favorite=Javascript) to insert your favorite programming language into the database.
+
 🚀👾
